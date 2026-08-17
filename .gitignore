@@ -1,0 +1,24 @@
+# Object files and executables
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
+*.dSYM/
+
+# Build folders
+build/
+bin/
+obj/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Other
+*.tmp
